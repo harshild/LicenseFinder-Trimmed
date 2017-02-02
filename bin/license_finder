@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'license_finder'
+
+LicenseFinder::CLI::Main.start
